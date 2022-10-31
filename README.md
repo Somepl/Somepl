@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Somepl
-- 👀 I’m interested in hardware
-- 🌱 I’m currently learning NOTHING
+- :innocent: humanbeing
+- 👀 interested in hardware
+- :yum: HOI4 player
+
 
 
 <!---
